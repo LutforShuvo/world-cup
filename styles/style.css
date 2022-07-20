@@ -1,6 +1,7 @@
 /* Externel font-family link */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 
+/* universal styles */
 body {
     margin: 0;
     padding: 0;
@@ -400,6 +401,7 @@ Responsive Design Starts
     .header-text {
         width: 316px;
         height: 276px;
+        overflow: hidden;
     }
 
 
@@ -474,3 +476,5 @@ Responsive Design Starts
 
 
 }
+
+/* Responsive for Teblet Ends */
